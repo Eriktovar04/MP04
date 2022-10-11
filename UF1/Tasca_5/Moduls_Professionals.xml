@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<moduls>
+    <modul>
+        <nom>EIE</nom>
+        <professor>Caterina</professor>
+        <curs>1r DAW</curs>
+        <num_uf>1</num_uf>
+        <hores_setmana>3</hores_setmana>
+    </modul>
+    <modul>
+        <nom>FOL</nom>
+        <professor>Caterina</professor>
+        <curs>1r DAW</curs>
+        <num_uf>2</num_uf>
+        <hores_setmana>3</hores_setmana>
+    </modul>
+    <modul>
+        <nom>Llenguatge de marques</nom>
+        <professor>Ricard Garcia</professor>
+        <curs>1r DAW</curs>
+        <num_uf>7</num_uf>
+        <hores_setmana>5</hores_setmana>
+    </modul>
+    <modul>
+        <nom>Desenvolupament de programari</nom>
+        <professor>Jordi Foixench</professor>
+        <curs>1r DAW</curs>
+        <num_uf>6</num_uf>
+        <hores_setmana>4</hores_setmana>
+    </modul>
+    <modul>
+        <nom>Tutoria</nom>
+        <professor>Joan Carles Baró</professor>
+        <curs>1r DAW</curs>
+        <num_uf>1</num_uf>
+        <hores_setmana>1</hores_setmana>
+    </modul>
+</moduls>
