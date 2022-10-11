@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<moduls>
+    <modul>
+        <nom></nom>
+        <professor></professor>
+        <curs></curs>
+        <num_uf></num_uf>
+        <hores_setmana></hores_setmana>
+    </modul>
+    <modul>
+        <nom></nom>
+        <professor></professor>
+        <curs></curs>
+        <num_uf></num_uf>
+        <hores_setmana></hores_setmana>
+    </modul>
+    <modul>
+        <nom></nom>
+        <professor></professor>
+        <curs></curs>
+        <num_uf></num_uf>
+        <hores_setmana></hores_setmana>
+    </modul>
+    <modul>
+        <nom></nom>
+        <professor></professor>
+        <curs></curs>
+        <num_uf></num_uf>
+        <hores_setmana></hores_setmana>
+    </modul>
+    <modul>
+        <nom></nom>
+        <professor></professor>
+        <curs></curs>
+        <num_uf></num_uf>
+        <hores_setmana></hores_setmana>
+    </modul>
+</moduls>
