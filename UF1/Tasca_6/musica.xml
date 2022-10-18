@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coleccio>
+    <musica>
+        <nom>Ave Maria</nom>
+        <any>2002</any>
+        <genere>Pop</genere>
+        <artista>David Bisbal</artista>
+    </musica>
+    <musica>
+        <nom>Veneno</nom>
+        <any>2020</any>
+        <genere>Urbà, Hip-Hop</genere>
+        <artista>Delaossa</artista>
+    </musica>
+    <musica>
+        <nom>Bohemian Rhapsody</nom>
+        <any>1975</any>
+        <genere>Rock, Pop</genere>
+        <artista>Queen</artista>
+    </musica>
+    <musica>
+        <nom>Happy</nom>
+        <any>2013</any>
+        <genere>Soul, Pop</genere>
+        <artista>Pharrel Williams</artista>
+    </musica>
+</coleccio>
