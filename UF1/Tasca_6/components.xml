@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<components>
+    <component>
+        <nom>Placa Base</nom>
+        <model>PO81Q</model>
+        <marca>Intel</marca>
+        <preu>999€</preu>
+    </component>
+     <component>
+        <nom>Processador</nom>
+        <model>Ryzen 5 5600H</model>
+        <marca>AMD</marca>
+        <preu>300€</preu>
+    </component>
+     <component>
+        <nom>RAM</nom>
+        <model>B52942A</model>
+        <marca>Corsair</marca>
+        <preu>80€</preu>
+    </component>
+     <component>
+        <nom>Disc dur</nom>
+        <model>A400</model>
+        <marca>Kingston</marca>
+        <preu>25€</preu>
+    </component>
+</components>
